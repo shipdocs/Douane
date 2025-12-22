@@ -1,8 +1,8 @@
-# Douane Application Firewall for Linux
+# Douane Application Firewall for Linux is renamed to Bastion
 
 **⚠️ PROJECT MOVED**
 
-This project has been moved to a new repository: **Bastion Firewall**.
+This project has been moved to a new repository: **Bastion Firewall**. https://github.com/shipdocs/bastion-firewall
 
 Please visit the new repository for the latest updates, source code, and releases.
 
